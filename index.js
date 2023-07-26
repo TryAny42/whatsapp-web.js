@@ -15,12 +15,12 @@ module.exports = {
     MessageMedia: require('./src/structures/MessageMedia'),
     Contact: require('./src/structures/Contact'),
     PrivateContact: require('./src/structures/PrivateContact'),
-    BusinessContact: require('./src/structures/BusinessContact'),
-    ClientInfo: require('./src/structures/ClientInfo'),
-    Location: require('./src/structures/Location'),
+    //BusinessContact: require('./src/structures/BusinessContact'),
+    //ClientInfo: require('./src/structures/ClientInfo'),
+    //Location: require('./src/structures/Location'),
     ProductMetadata: require('./src/structures/ProductMetadata'),
-    List: require('./src/structures/List'),
-    Buttons: require('./src/structures/Buttons'),
+    //List: require('./src/structures/List'),
+    //Buttons: require('./src/structures/Buttons'),
     
     // Auth Strategies
     NoAuth: require('./src/authStrategies/NoAuth'),
